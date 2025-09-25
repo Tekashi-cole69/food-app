@@ -4,7 +4,7 @@ function App() {
 
   return (
  <div className='font-bold text-red-600 text-3xl'>
-  HELLO ANGEL, i am fine
+  HELLO ANGEL, hiiiiiiii
  </div>
   )
 }
