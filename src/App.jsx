@@ -1,10 +1,13 @@
 import React from 'react'
+import Navbar from './components/Navbar'
+import Hero from './components/Hero'
 function App() {
   
 
   return (
- <div className='font-bold text-red-600 text-3xl'>
-  HELLO ANGEL, hello again
+    <div>
+ <Navbar />
+ <Hero />
  </div>
   )
 }
